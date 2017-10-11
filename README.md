@@ -1,9 +1,11 @@
 # shapefilemustdie
 
-HTML source code of the "Switch from Shapefile" web page
+Repository with source code of the web page http://switchfromshapefile.org
 
-Please use standard pull request to contribute
+## Contributing
 
-Thank yuo
+Contribute by sending standard pull request to `gh-pages` branch
 
-Jachym
+## License
+
+Creative commons share alike
